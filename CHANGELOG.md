@@ -6,6 +6,7 @@ Swift v.Next
    * Improvements
    
    Adding a dependency requirement can now be done with the convenience initializer `.package(url: String, branch: String)`.
+   Adding a dependency requirement can now be done with the convenience initializer `.package(url: String, revision: String)`.
 
 
 Swift 5.4
